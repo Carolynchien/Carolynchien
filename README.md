@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+### 🔭 I’m currently learning programing language like Javascript, Java, React...
+### 📫 How to reach me: https://www.linkedin.com/in/yin-ting-chien/
+###
+###
 <!--
 **Carolynchien/Carolynchien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
