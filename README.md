@@ -2,8 +2,8 @@
 
 
 
-# 🔭 I’m currently learning programing language like Javascript, Java, React...
-# 📫 How to reach me: https://www.linkedin.com/in/yin-ting-chien/
+#### 🔭 I’m currently learning programing language like Javascript, Java, React...
+#### 📫 How to reach me: https://www.linkedin.com/in/yin-ting-chien/
 ###
 ###
 <!--
